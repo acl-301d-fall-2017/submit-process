@@ -13,7 +13,7 @@
 <img src="steps5-6.jpg" width="700px">
 
 ## Written steps
-#### [w/ relevant example commands]*
+#### [w/ relevant example commands]*  MAKE SURE YOU GET SCHWIFTY!!!
 
 0. **Find your pair*
 1. Person A forks class lab repo `[done via GitHub website: Fork]`
