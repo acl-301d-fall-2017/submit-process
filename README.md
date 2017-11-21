@@ -5,7 +5,7 @@
 
 ===
 
-## Visual
+## visual
 <img src="steps1-2.jpg" width="700px">
 <br>
 <img src="steps3-4.jpg" width="700px">
