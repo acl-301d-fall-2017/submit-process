@@ -53,3 +53,4 @@
 6. High five your pair
     * 6A. Say thank you
     * 6B. Pat yourself on the back
+    * 6C. Do a cartwheel
