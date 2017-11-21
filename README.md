@@ -5,7 +5,7 @@
 
 ===
 
-## Visual
+**## Visual*
 <img src="steps1-2.jpg" width="700px">
 <br>
 <img src="steps3-4.jpg" width="700px">
@@ -13,11 +13,11 @@
 <img src="steps5-6.jpg" width="700px">
 
 ## Written steps
-#### [w/ relevant example commands]
+#### [w/ relevant example commands]*  MAKE SURE YOU GET SCHWIFTY!!!
 
-0. Find your pair
+0. **Find your pair*
 1. Person A forks class lab repo `[done via GitHub website: Fork]`
-    * 1A. Person A adds Person B as a collaborator to their fork
+    **1A. Person A adds Person B as a collaborator to their fork*
         *  `[done via GitHub website: Settings > Collaborators & teams > Add collaborator]`
 2. Person A clones their fork  `[git clone https://github.com/acl-301d-fall-2017/submit-process.git]`
     * 2A. Person A cd into the project directory `[cd submit-process]`
