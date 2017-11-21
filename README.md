@@ -15,7 +15,7 @@
 ## Written steps
 #### [w/ relevant example commands]
 
-0. Find your pair
+0.FIND YOUR PAIR
 1. Person A forks class lab repo `[done via GitHub website: Fork]`
     * 1A. Person A adds Person B as a collaborator to their fork
         *  `[done via GitHub website: Settings > Collaborators & teams > Add collaborator]`
