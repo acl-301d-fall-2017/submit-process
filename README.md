@@ -16,7 +16,7 @@
 #### [w/ relevant example commands]
 
 0. Find your pair
-1. Person A forks class lab repo `[done via GitHub website: Fork]`
+1. Person A forks the class lab repo `[done via GitHub website: Fork]`
     * 1A. Person A adds Person B as a collaborator to their fork
         *  `[done via GitHub website: Settings > Collaborators & teams > Add collaborator]`
 2. Person A clones their fork  `[git clone https://github.com/acl-301d-fall-2017/submit-process.git]`
