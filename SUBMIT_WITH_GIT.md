@@ -1,6 +1,6 @@
 Submitting your Labs 
 ===
-
+ <!-- Jacob -->
 - [Getting the Lab](#Get)
 - [Working on the Lab](#Work)
     - [Configuration for Lab](#Config)
